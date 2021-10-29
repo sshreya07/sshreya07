@@ -3,6 +3,20 @@
 <a href="http://www.linkedin.com/in/sshreya07"><img width="25" height="25" src="/resource/linkedin.svg"></a>&ensp;<a href="https://dribbble.com/sshreya07"><img width="25" height="25" src="/resource/dribbble.png"></a>&ensp;<a href="https://sshreya07.github.io/portfolio/"><img width="25" height="25" src="/resource/behance.png"></a>
 
 
+<p>
+I like experimenting new technologies and building small projects. 
+</p>
+
+<p>
+Here's a list of things I currently keep myself busy with:
+
+<ul>
+  <li>Working as a Frontend Developer and a UI Designer over React.js</li>
+  <li>Getting myself into MERN Stack </li>
+</ul>
+
+</p>
+
 
 
 <p>
@@ -10,7 +24,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sshreya07&theme=tokyonight" />
 </p>
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=sshreya07.visitor-badge)
+- Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=sshreya07.visitor-badge)
 
 
 <!-- 
