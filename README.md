@@ -9,13 +9,11 @@ I like experimenting new technologies and building small projects.
 
 <p>
 Here's a list of things I currently keep myself busy with:
-
-<ul>
-  <li>Working as a Frontend Developer and a UI Designer over React.js</li>
-  <li>Getting myself into MERN Stack </li>
-</ul>
-
 </p>
+
+- Working as a Frontend Developer and a UI Designer over React.js
+- Getting myself into MERN Stack
+
 
 
 
@@ -24,16 +22,4 @@ Here's a list of things I currently keep myself busy with:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sshreya07&theme=tokyonight" />
 </p>
 
-- Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=sshreya07.visitor-badge)
-
-
-<!-- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sshreya07&count_private=true&show_icons=true&theme=tokyonight&line_height=48)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sshreya07&count_private=true&theme=tokyonight&line_height=48) -->
-
-
-<!-- 
-
-<br> **Profile Visitors**<br>
-![Visitor Counts](https://profile-counter.glitch.me/%7Bsshreya07%7D/count.svg)
-<br> -->
+Glad to see you here! &ensp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=sshreya07.visitor-badge)
