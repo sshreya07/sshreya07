@@ -4,6 +4,7 @@
 
 <a href="http://www.linkedin.com/in/sshreya07"><img width="25" height="25" src="/resource/linkedin.svg"></a>&ensp;<a href="https://dribbble.com/sshreya07"><img width="25" height="25" src="/resource/dribbble.png"></a>&ensp;<a href="https://sshreya07.github.io/portfolio/"><img width="25" height="25" src="/resource/behance.png"></a>
 
+<br><br>
 
 <p>
       I like experimenting new technologies and building small projects. 
@@ -13,8 +14,8 @@
       Here's a list of things I currently keep myself busy with:
 </p>
 
-        - Working as a Frontend Developer and a UI Designer over React.js
-        - Getting myself into MERN Stack
+- Working as a Frontend Developer and a UI Designer over React.js
+- Getting myself into MERN Stack
 
 
 
