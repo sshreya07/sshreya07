@@ -10,7 +10,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sshreya07&theme=tokyonight" />
 </p>
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?${sshreya07}.${sshreya07})
+### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=sshreya07.visitor-badge)
 
 
 <!-- 
