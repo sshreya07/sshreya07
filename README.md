@@ -12,7 +12,7 @@ Here's a list of things I currently keep myself busy with:
 </p>
 
 - Working as a Frontend Developer and a UI Designer over React.js
-- Getting myself into MERN Stack
+- Getting myself into MERN Stack ;)
 
 
 
@@ -22,4 +22,4 @@ Here's a list of things I currently keep myself busy with:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sshreya07&theme=tokyonight" />
 </p>
 
-Glad to see you here! &ensp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=sshreya07.visitor-badge)
+<h6>Glad to see you here!</h6> &ensp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=sshreya07.visitor-badge)
