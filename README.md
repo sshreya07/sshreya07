@@ -6,15 +6,15 @@
 
 
 <p>
-I like experimenting new technologies and building small projects. 
+      I like experimenting new technologies and building small projects. 
 </p>
 
 <p>
-Here's a list of things I currently keep myself busy with:
+      Here's a list of things I currently keep myself busy with:
 </p>
 
-- Working as a Frontend Developer and a UI Designer over React.js
-- Getting myself into MERN Stack
+        - Working as a Frontend Developer and a UI Designer over React.js
+        - Getting myself into MERN Stack
 
 
 
