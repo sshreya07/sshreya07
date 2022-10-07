@@ -27,5 +27,5 @@
 
 <br>
 
-<strong>Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=sshreya07.visitor-badge)</strong>
+<strong>Glad to see you here! !<img src="https://komarev.com/ghpvc/?username=sshreya07&label=Profile%20views&color=0e75b6&style=flat" alt="sshreya07"/></strong>
 
