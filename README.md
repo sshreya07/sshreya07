@@ -3,7 +3,7 @@
 <a href="http://www.linkedin.com/in/sshreya07"><img width="25" height="25" src="/resource/linkedin.svg"></a>&ensp;<a href="https://dribbble.com/sshreya07"><img width="25" height="25" src="/resource/dribbble.png"></a>&ensp;<a href="https://sshreya07.github.io/portfolio/"><img width="25" height="25" src="/resource/behance.png"></a>
 
 <br>
-
+<a href="https://drive.google.com/file/d/1cFN1LHbUA627hwzHtq_vM-YghrenPwvq/view?usp=sharing">Resume</a>
 <p>
 Backend Engineer with <strong>3 years of experience</strong> in designing and optimising large-scale, high-traffic systems. <strong>Specialised in Golang, PostgreSQL, microservices, and distributed systems</strong> with proven success in <strong>system performance, API design, and cloud-based deployments (AWS, Docker, Jenkins</strong>. Proven record of delivering robust, secure, and scalable backend solutions improving query performance by 30%, accelerating billing cycles, and supporting 500K+ users with reliable subscription, credit, and payment systems.
 </p>
