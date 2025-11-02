@@ -9,7 +9,7 @@ Backend Engineer with <strong>3 years of experience</strong> in designing and op
 </p>
 
 <p>
-<strong>TECHNICAL SKILLS</strong>
+<strong>TECHNICAL SKILLS</strong><br/>
 <strong>Languages & Frameworks:</strong> Golang (Gin, Gorm), Node.js (Express), JavaScript (ES6+), React.js, Python, C++, MERN, Next.js, TailwindCSS <br/>
 <strong>Databases:</strong> PostgreSQL, Redis, MSSQL, MongoDB <br/>
 <strong>DevOps & Tools:</strong> Docker, Jenkins, AWS <br/>
