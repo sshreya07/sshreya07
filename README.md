@@ -5,17 +5,17 @@
 <br>
 
 <p>
-      I like experimenting new technologies and building projects. 
+Backend Engineer with <strong>3 years of experience</strong> in designing and optimising large-scale, high-traffic systems. <strong>Specialised in Golang, PostgreSQL, microservices, and distributed systems</strong> with proven success in <strong>system performance, API design, and cloud-based deployments (AWS, Docker, Jenkins</strong>. Proven record of delivering robust, secure, and scalable backend solutions improving query performance by 30%, accelerating billing cycles, and supporting 500K+ users with reliable subscription, credit, and payment systems.
 </p>
 
 <p>
-      Here's a list of things I currently keep myself busy with:
+<strong>TECHNICAL SKILLS</strong>
+<strong>Languages & Frameworks:</strong> Golang (Gin, Gorm), Node.js (Express), JavaScript (ES6+), React.js, Python, C++, MERN, Next.js, TailwindCSS <br/>
+<strong>Databases:</strong> PostgreSQL, Redis, MSSQL, MongoDB <br/>
+<strong>DevOps & Tools:</strong> Docker, Jenkins, AWS <br/>
+<strong>AI Tools:</strong> Cursor, GitHub Copilot, ChatGPT <br/>
+<strong>Core Strengths:</strong> System Design, Query Optimization, Problem Solving, Team Leadership <br/>
 </p>
-
-- Working as a Frontend Developer and a UI Designer over React.JS
-- I'm a MERN Full Stack Developer.
-
-
 
 <br>
 <p>
